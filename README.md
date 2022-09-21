@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IsyraqAlfisar
-- 👀 I’m interested in National Research Tomsk State University
+- 👀 I’m studying at National Research Tomsk State University
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on KAMAZ
 - 📫 How to reach me apising805@gmail.com
